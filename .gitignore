@@ -1,0 +1,17 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.bak
+*~
+
+# Editores
+.vscode/
+.idea/
+
+# Documentos de trabajo privados
+_borrador*/
+_privado*/
