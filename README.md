@@ -49,17 +49,15 @@ Sección 7.2 — Sistema de evaluación
 🔄 En desarrollo
 Materiales de aula por nivel
 🔄 Pendiente
-Propuesta institucional formal
-🔄 Pendiente
 Conexión con Marco Teórico Mayor
 Este programa forma parte del cuerpo de trabajo del autor en torno a la tesis doctoral en elaboración:
 "El Verbo como Co-regulador Primario"
 …donde se argumenta que el lenguaje hablado opera como mecanismo de co-regulación del sistema nervioso, anterior y fundacional a cualquier técnica comunicativa. Tu Voz es la aplicación pedagógica de ese marco.
-Uso e Instituciones Interesadas
-Este programa está disponible para convenio con instituciones educativas de nivel básico y secundario en la República Dominicana. Para consultas de implementación:
+Uso e Instituciones Interesadas:
+Este programa está disponible para convenio con instituciones educativas de nivel básico y secundario en la República Dominicana. 
+Para consultas de implementación:
 Contacto: Guillermo Emigdio Miniño Álvarez
-Repositorio principal: github.com/GMinino/KninordRD
-Producción espiritual/personal: Via-Integra
+Repositorio principal: github.com/GMinino/Tu-Voz
 Licencia
 Este material está protegido bajo licencia de propiedad intelectual del autor.
 Ver archivo LICENSE para términos completos.
