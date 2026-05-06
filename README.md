@@ -17,12 +17,12 @@ Semilla
 6–8 años
 2
 Brote
-9–10 años
+9–11 años
 3
 Tallo
 11–12 años
 4
-Copa
+Rama
 13–15 años
 5
 Raíz
@@ -31,7 +31,7 @@ El avance entre niveles es por competencia demostrada, no por edad cronológica.
 Contenido del Repositorio
 Código
 Fundamentos Metodológicos
-Competencias oratorias progresivas — cada nivel construye sobre el anterior de forma medible
+Competencias oratorias proresivas — cada nivel construye sobre el anterior de forma medible
 Método Harada OW64 — planificación de objetivos con rutina diaria de autodisciplina
 Neurociencia del vínculo verbal — el habla como regulador del sistema nervioso (soporte en teoría polivagal)
 Pedagogía experiencial — aprendizaje por práctica, corrección y demostración pública
