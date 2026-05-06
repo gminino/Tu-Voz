@@ -31,7 +31,7 @@ El avance entre niveles es por competencia demostrada, no por edad cronológica.
 Contenido del Repositorio
 Código
 Fundamentos Metodológicos
-Competencias oratorias proresivas — cada nivel construye sobre el anterior de forma medible
+Competencias oratorias progresivas — cada nivel construye sobre el anterior de forma medible.
 Método Harada OW64 — planificación de objetivos con rutina diaria de autodisciplina
 Neurociencia del vínculo verbal — el habla como regulador del sistema nervioso (soporte en teoría polivagal)
 Pedagogía experiencial — aprendizaje por práctica, corrección y demostración pública
